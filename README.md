@@ -1,4 +1,8 @@
-# Kanban
+# Kanban em Angular
+
+Projeto de desenvolvimento de quadro Kanban em Angular. As instruções técnicas de execução, build e testes estão abaixo.
+
+Este projeto integra meu portfólio de desenvolvimento. Meu foco profissional atual é [Dados e BI](https://github.com/eliasvinharski97).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
